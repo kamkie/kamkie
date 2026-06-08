@@ -24,7 +24,7 @@
 ## Experience Snapshot
 
 - 13+ years in software engineering, including long-running consulting and product delivery work at Jit Team since 2016.
-- 8k+ authored commits in local history across public demos, learning projects, and private client/internal repositories.
+- 8k+ authored commits across public demos, learning projects, and private repositories.
 - Professional work across backend systems, frontend applications, platform engineering, cloud infrastructure, and delivery automation.
 - Strongest recurring stack: Java/Spring, TypeScript/React, Kotlin, Docker, SQL, YAML, Terraform, Shell, and PowerShell.
 - Comfortable moving between product code, integration work, build pipelines, infrastructure scripts, test automation, release management, and debugging production-facing systems.
