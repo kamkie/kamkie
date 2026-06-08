@@ -23,18 +23,26 @@
 
 ## Experience Snapshot
 
+- 13+ years in software engineering, including long-running consulting and product delivery work at Jit Team since 2016.
 - 8k+ authored commits in local history across public demos, learning projects, and private client/internal repositories.
 - Professional work across backend systems, frontend applications, platform engineering, cloud infrastructure, and delivery automation.
 - Strongest recurring stack: Java/Spring, TypeScript/React, Kotlin, Docker, SQL, YAML, Terraform, Shell, and PowerShell.
-- Comfortable moving between product code, integration work, build pipelines, infrastructure scripts, and debugging production-facing systems.
+- Comfortable moving between product code, integration work, build pipelines, infrastructure scripts, test automation, release management, and debugging production-facing systems.
+- Experienced with legacy modernization, SVN-to-Git migrations, CI/CD automation, code reviews, technical guidance, and team leadership.
 
 ## Industries & Domains
 
 - Financial services and payments: backend platforms, integrations, reporting, and compliance-aware workflows.
 - Retail, e-commerce, and logistics: operational systems, planning tools, POS-adjacent services, and data integrations.
+- Travel and transportation: web applications, integrations, and business process support.
 - Industrial, IoT, and building automation: configuration tools, service APIs, engineering workflows, and device-adjacent systems.
 - HR, workforce, and internal operations: self-service portals, time/reporting tools, onboarding/offboarding, and process automation.
 - Platform and DevOps work across sectors: cloud infrastructure, CI/CD, Kubernetes, observability, and deployment automation.
+
+## Background
+
+- Electronics and telecommunication engineering background from Gdansk University of Technology.
+- Interests that often influence my side projects: cloud computing, virtual reality, embedded systems, and more.
 
 ## Tech I Use
 
