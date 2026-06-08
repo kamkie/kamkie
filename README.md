@@ -28,6 +28,14 @@
 - Strongest recurring stack: Java/Spring, TypeScript/React, Kotlin, Docker, SQL, YAML, Terraform, Shell, and PowerShell.
 - Comfortable moving between product code, integration work, build pipelines, infrastructure scripts, and debugging production-facing systems.
 
+## Industries & Domains
+
+- Financial services and payments: backend platforms, integrations, reporting, and compliance-aware workflows.
+- Retail, e-commerce, and logistics: operational systems, planning tools, POS-adjacent services, and data integrations.
+- Industrial, IoT, and building automation: configuration tools, service APIs, engineering workflows, and device-adjacent systems.
+- HR, workforce, and internal operations: self-service portals, time/reporting tools, onboarding/offboarding, and process automation.
+- Platform and DevOps work across sectors: cloud infrastructure, CI/CD, Kubernetes, observability, and deployment automation.
+
 ## Tech I Use
 
 <p>
