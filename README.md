@@ -1,22 +1,54 @@
-<!--
-**kamkie/kamkie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Kamil Kiewisz</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <strong>Software developer from Poland</strong><br />
+  I build backend services, developer tools, frontend demos, and automation around delivery workflows.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hi 👋, I'm Kamil</h1>
-<h3 align="center">A passionate developer from Poland</h3>
+<p align="center">
+  <a href="https://github.com/kamkie?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-kamkie-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
+  </a>
+  <a href="https://twitter.com/KamilKiewisz">
+    <img src="https://img.shields.io/badge/X-@KamilKiewisz-000000?style=for-the-badge&logo=x" alt="X profile" />
+  </a>
+</p>
 
-<p align="left"> <a href="https://twitter.com/kamilkiewisz" target="blank"><img src="https://img.shields.io/twitter/follow/kamilkiewisz?logo=twitter&style=for-the-badge" alt="kamilkiewisz" /></a> </p>
+## What I Work On
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamkie&layout=compact" alt="kamkie" /></p>
+- Java and Spring backend services, integrations, and performance experiments.
+- TypeScript and React frontends, demos, and technical interview exercises.
+- IntelliJ plugins and other developer workflow tooling.
+- CI/CD, Docker, Jenkins, Argo CD, and infrastructure automation.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamkie&show_icons=true" alt="kamkie" /></p>
+## Tech I Use
+
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?style=flat-square&logo=argo&logoColor=white" alt="Argo CD" />
+</p>
+
+## Featured Repositories
+
+| Repository | Focus |
+| --- | --- |
+| [technical-interview-demo](https://github.com/kamkie/technical-interview-demo) | Java technical interview/demo project |
+| [technical-interview-frontend](https://github.com/kamkie/technical-interview-frontend) | TypeScript frontend interview/demo project |
+| [demo-jmh](https://github.com/kamkie/demo-jmh) | Java microbenchmarking experiments |
+| [demo-spring-jsf](https://github.com/kamkie/demo-spring-jsf) | Spring and JSF demo work |
+| [intellij-ai-commit-all-plugin](https://github.com/kamkie/intellij-ai-commit-all-plugin) | Kotlin IntelliJ plugin experiment |
+| [micro-service-example](https://github.com/kamkie/micro-service-example) | Spring Cloud microservice example |
+
+## GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kamkie&show_icons=true&hide_border=true&rank_icon=github" alt="Kamil's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamkie&layout=compact&hide_border=true" alt="Kamil's most used languages" />
+</p>
