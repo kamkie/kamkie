@@ -21,6 +21,13 @@
 - IntelliJ plugins and other developer workflow tooling.
 - CI/CD, Docker, Jenkins, Argo CD, and infrastructure automation.
 
+## Experience Snapshot
+
+- 8k+ authored commits in local history across public demos, learning projects, and private client/internal repositories.
+- Professional work across backend systems, frontend applications, platform engineering, cloud infrastructure, and delivery automation.
+- Strongest recurring stack: Java/Spring, TypeScript/React, Kotlin, Docker, SQL, YAML, Terraform, Shell, and PowerShell.
+- Comfortable moving between product code, integration work, build pipelines, infrastructure scripts, and debugging production-facing systems.
+
 ## Tech I Use
 
 <p>
