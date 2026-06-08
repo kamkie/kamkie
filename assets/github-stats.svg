@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="220" role="img" aria-labelledby="title desc">
+  <title id="title">Kamil Kiewisz GitHub stats</title>
+  <desc id="desc">Placeholder stats card that is replaced by the GitHub Actions workflow.</desc>
+  <rect width="720" height="220" rx="12" fill="#0d1117"/>
+  <text x="36" y="62" fill="#f0f6fc" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">Kamil Kiewisz</text>
+  <text x="36" y="104" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="17">GitHub stats card</text>
+  <text x="36" y="145" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="18">Generated automatically by GitHub Actions.</text>
+  <text x="36" y="178" fill="#58a6ff" font-family="Segoe UI, Arial, sans-serif" font-size="16">Manual or weekly refresh: github-stats-card workflow</text>
+</svg>

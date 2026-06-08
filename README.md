@@ -44,6 +44,12 @@
 - Electronics and telecommunication engineering background from Gdansk University of Technology.
 - Interests that often influence my side projects: cloud computing, virtual reality, embedded systems, and more.
 
+## GitHub Stats
+
+<p align="center">
+  <img src="assets/github-stats.svg" alt="Kamil's GitHub stats card" />
+</p>
+
 ## Tech I Use
 
 <p>
