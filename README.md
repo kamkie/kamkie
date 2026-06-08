@@ -46,9 +46,8 @@
 | [intellij-ai-commit-all-plugin](https://github.com/kamkie/intellij-ai-commit-all-plugin) | Kotlin IntelliJ plugin experiment |
 | [micro-service-example](https://github.com/kamkie/micro-service-example) | Spring Cloud microservice example |
 
-## GitHub Stats
+## Around GitHub
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kamkie&show_icons=true&hide_border=true&rank_icon=github" alt="Kamil's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamkie&layout=compact&hide_border=true" alt="Kamil's most used languages" />
-</p>
+- [Repositories](https://github.com/kamkie?tab=repositories) with Java, Kotlin, TypeScript, and infrastructure experiments.
+- [Stars](https://github.com/kamkie?tab=stars) that reflect tools, frameworks, and libraries I keep an eye on.
+- [Gists](https://gist.github.com/kamkie) for smaller notes and snippets.
